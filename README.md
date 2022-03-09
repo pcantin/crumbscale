@@ -1,4 +1,4 @@
-# crumbscale
+# CrumbScale
 Agile Points Effort Estimation Method
 
 
